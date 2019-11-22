@@ -5,3 +5,5 @@ Learned Julia and a set of numerical tools for optimization problems. The course
 1) Demonstrate my Julia coding performance
 2) Demonstrate my practice of applying linear algebra tools that are frequently used in industry and applications
 3) Summarize the knowledge concisely for reflection and review in the future. 
+
+Disclaimer: Any assignment submission content is uploaded after submission deadline to prevent plagiarism and unfairness. course code and course title is not included as repo name to reduce search traffic from future course students. 
