@@ -4,6 +4,7 @@ Learned Julia and a set of numerical tools for optimization problems. The course
 <br><br>The purpose for this documentation is to 
 1) Demonstrate my Julia coding performance
 2) Demonstrate my practice of applying linear algebra tools that are frequently used in industry and applications
-3) Summarize the knowledge concisely for reflection and review in the future. 
+3) Summarize the knowledge concisely for reflection and review in the future. <br>
 <br><br><br>
+
 Disclaimer: Any assignment submission content is uploaded after the submission deadline to prevent plagiarism and unfairness. Course code and course title are not included as repo name in the hope of reducing search traffic from future course students. 
